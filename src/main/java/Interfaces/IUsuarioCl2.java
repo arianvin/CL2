@@ -15,4 +15,4 @@ public interface IUsuarioCl2 {
 		public List<TblUsuariocl2> ListadoUsuarioCl2();
 		
 		
-	} //fin del interface
+} //fin del interface
